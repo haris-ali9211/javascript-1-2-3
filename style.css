@@ -1,0 +1,38 @@
+  body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 85vh;
+    width: 100vw;
+}
+.content .text{
+    margin-bottom: -0px;
+}
+.signup{
+    border: 1px solid black;
+    padding: 40px;
+}
+.signup .heading{
+    text-align: center;
+}
+.signup .heading hr{
+    width: 200px;
+    margin-top: -20px;
+}
+.content input{
+    height: 30px ;
+    width: 300px;
+   
+}
+button{
+    width: 150px;
+    height: 30px;
+    margin-top: 20px;
+    border-style: none;
+}
+
+#myLight{
+    height: 400px;
+    width: 400px;
+} 
+
